@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /gestionale_preventivi.html
+Disallow: /listino_servizi.html
+Disallow: /listino_namirial.html
+Disallow: /calcolatore_insegne.html
+Disallow: /volantino_a4.html
+Disallow: /pagina_oro_corretta.html
+
+Sitemap: https://eliografiasangiorgio.it/sitemap.xml
